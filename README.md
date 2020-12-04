@@ -17,7 +17,7 @@
 - [visualgo](https://visualgo.net/)
 - [十大经典排序算法动画与解析，看我就够了！（配代码完全版）](https://mp.weixin.qq.com/s?__biz=MzUyNjQxNjYyMg==&mid=2247484184&idx=1&sn=62965b401aa42107b3c17d1d8ea17454)
 
-### 书籍/论文/参考资料
+#### 书籍/论文/参考资料
 
 - [Algorithms by Jeff Erickson](https://github.com/jeffgerickson/algorithms)
 - [Algorithms lectures](https://algs4.cs.princeton.edu/lectures/)
